@@ -1,0 +1,2 @@
+# complex-engineering-problem
+8 November 2020, at 04:10 PM, one news was published and that is Various problems forced the Bagarchar UP Health Center to shut its services for more than five years at Bakashiganj Upazila in Jamalpur. As a result, the local patients have to go to the 12-kilometer-away government and private hospitals of the Upazila and district. For solving this problem our Online Based Emergency Medicine and Doctor Services system will be very helpful for remote area people.
